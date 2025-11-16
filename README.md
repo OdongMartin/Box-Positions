@@ -1,4 +1,4 @@
-# TBR Positions — Sample Storage Utilities
+# BOX Positions — Sample Storage Utilities
 
 Short summary
 - Script  to extract box/position mappings from CSV exports of the sample storage system.
